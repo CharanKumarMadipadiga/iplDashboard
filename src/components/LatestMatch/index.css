@@ -1,0 +1,28 @@
+.line {
+  color: #ffffff;
+  width: 100%;
+  font-weight: 500;
+  padding-left: 0px;
+}
+
+.competing-team {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 27px;
+}
+
+.date {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 22px;
+}
+
+.venue {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+
+.result {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
